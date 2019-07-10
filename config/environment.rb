@@ -1,5 +1,6 @@
 require 'sqlite3'
 require 'pry'
+require 'nokogiri'
 
 require_relative "../lib/student.rb"
 
